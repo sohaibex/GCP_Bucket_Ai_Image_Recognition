@@ -6,5 +6,5 @@ The architect  of the project
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/rFKKQKV)
+![App Screenshot](./img/GCP%20arch.png)
 
